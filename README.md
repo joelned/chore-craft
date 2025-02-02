@@ -30,14 +30,15 @@ Make sure you have Python 3.8 or higher installed on your system.
    For Mac/Linux:
    ```bash
    python3 -m venv env
-  ```
-3. **Activate the virtual environment**
+   ```
+3. **Set up a python virtual environment**
+
     For Windows:
     ```bash
      .\env\Scripts\activate
      ```
     For macOS/Linux:
-    ```bash
+     ```bash
      .\env\bin\activate
      ```
 4. **Install the required dependencies**
